@@ -1,2 +1,1 @@
-# zombie-crush-1
-project solution for c29
+https://suwarna-cloud.github.io/CRUSH-THE-ZOMBIES/
